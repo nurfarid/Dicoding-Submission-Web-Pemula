@@ -1,5 +1,3 @@
-# rizalfahrudin879.github.io
-
 # Dicoding Submission Web Pemula
 Submission - Belajar Dasar Pemrograman Web dicoding
 
@@ -24,4 +22,4 @@ This is a project for my learning record and this is a web beginner submission f
 - [x] Responsive on mobile midle width 321 - 425px
 
 ## Author
-* #### Rizal Fahrudin
+* #### Nurfarid
